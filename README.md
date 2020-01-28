@@ -1,5 +1,6 @@
-# vuecli-example
-
+# cv
+## cv make with vucli3-vuetify
+![Farmers Market Finder Demo](gif/gif.gif)
 ## Project setup
 ```
 npm install
