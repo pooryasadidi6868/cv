@@ -1,0 +1,16 @@
+  <svg width="400" height="400" viewBox="0 0 400 400">
+                                        <defs>
+                                            <path d="M 47 139 C 47 61 98 29 154 90 C 175 12 335 9 288 78 C 260 182 313 183 279 248 C 150 319 118 335 59 218 L 48 141 Z"
+                                                fill="#838DEA" stroke="" stroke-width="" id="buble"/>
+                                        </defs>
+                                        <g>
+                                        <mask id="mask" >
+                                            <use xlink:href="#buble"  />
+                                        </mask>
+                                            <use xlink:href="#buble"  />
+                                            <path d="M 106 139 C 47 61 98 29 154 90 C 175 12 335 9 288 78 Z"  fill="#FF6D8B" mask="url(#mask)"  />
+                                            <path d="M202.697 211.661c67.034 0 74.298-33.264 74.298-74.298s-43.231-7.425-84.265-7.425S98 88.56 98 98.593c0 41.034 63.663 113.068 104.697 113.068z"  fill="blue" mask="url(#mask)" opacity=".3" />
+                                        
+                                        </g>
+
+ </svg>

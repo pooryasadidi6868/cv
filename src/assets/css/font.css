@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Calibre';
+    src: url('../fonts/Calibre/Calibre-Medium.woff2'),
+    url('../fonts/Calibre/Calibre-Medium.woff') format('woff'),
+    url('../fonts/Calibre/Calibre-Medium.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+ @font-face {
+        font-family: 'SFMono';
+        src: url('../fonts/SFMono/SFMono-Medium.woff2'),
+        url('../fonts/SFMono/SFMono-Medium.woff') format('woff'),
+        url('../fonts/SFMono/SFMono-Medium.ttf') format('truetype');
+        font-weight: 200;
+        font-style: normal;
+    }
